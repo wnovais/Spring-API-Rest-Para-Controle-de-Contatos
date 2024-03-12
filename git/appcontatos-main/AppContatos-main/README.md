@@ -1,16 +1,16 @@
-# AppContatos
+### 🚀 Projeto API Rest para Controle de Contatos
 
- A API
- Disponibiliza um cadastro de contatos para cadas pessoa.
+Implementação de um CRUD para cadastro de pessoas e contatos, explorando conceitos de API Rest.
 
- Como acessar?
+---
 
- 1-Acessar endereço abaixo:
- http://localhost:8081/swagger-ui/index.html
+### 🛠️ Configuração e Instalação
 
- 2-Solicitar um token de acesso no Endpoint Token conforme abaixo:
- http://localhost:8081/token?username=[seu_usuario]
+Para rodar a aplicação, siga os passos abaixo:
 
- 3-Clicar no botão "Authorize".
-
- 4-Inserir o token retornado no passo 2 na caixa de dialogo e clicar no botão "Authorize". Clicar no botão "Close".
+1. Clone o repositório para sua máquina local.
+2. Execute o projeto em sua IDE (ex. Eclipse).
+3. Acesse o endereço http://localhost:8081/swagger-ui/index.html em seu navegador.
+4. Obtenha um token de acesso em TOKEN. Basta informar um nome de usuário.
+5. Clique no botão "Authorize" no canto superior direito da página e insira o token gerado.
+6. Utilize os endpoints desejados.
