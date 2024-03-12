@@ -1,0 +1,10 @@
+package br.com.ehmf.App.Contatos.exception;
+
+import org.springframework.http.HttpStatus;
+
+public class ResourceNotFoundException extends RuntimeException {
+	
+	public ResourceNotFoundException(String message) {
+		super(message);
+	}	
+}

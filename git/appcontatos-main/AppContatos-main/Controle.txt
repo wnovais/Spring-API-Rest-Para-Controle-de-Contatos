@@ -1,0 +1,34 @@
+09/03
+
+Funcionando
+Model, Interface Service, InterfaceRepository, h2, Service e repository
+
+Fazendo
+Service e repository
+
+Acompanhamento vídeo
+Vídeo 10 50mi
+------------------------------------------------------------------------------------------
+10/03 14:25
+
+Funcionando
+Model, Interface Service, InterfaceRepository, h2.
+
+Fazendo
+Ajustes na Service, Controllers
+
+Acompanhamento vídeo
+Vídeo 13 21mi
+------------------------------------------------------------------------------------------
+10/03 17:00
+
+Funcionando
+Model, Interface Service, InterfaceRepository, h2, Service *
+
+Fazendo
+Ajustes na Service, Controllers
+* Falta mala direta
+
+Acompanhamento vídeo
+Vídeo 13 21mi
+------------------------------------------------------------------------------------------
